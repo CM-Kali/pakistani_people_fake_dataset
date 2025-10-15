@@ -68,7 +68,7 @@ This dataset is ideal for:
 ```python
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/CM-KALI/pakistani_people_dataset/main/pakistani_people_dataset.csv"
+url="https://raw.githubusercontent.com/CM-Kali/pakistani_people_fake_dataset/main/pakistani_people_dataset.csv"
 df = pd.read_csv(url)
 
 print(df.head())
