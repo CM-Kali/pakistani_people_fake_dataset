@@ -1,7 +1,7 @@
 # pakistani_people_fake_dataset
 A synthetic dataset of 1000  fake Pakistani people for AI &amp; data analysis projects.
 
-# 🇵🇰 Pakistani People Dataset (Synthetic)  
+# 🇵🇰  People fake Dataset (Synthetic)  
 ![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
 ![Made with 💙 in Pakistan](https://img.shields.io/badge/Made%20with-%F0%9F%92%99%20in%20Pakistan-green)
 
